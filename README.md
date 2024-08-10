@@ -1,1 +1,1 @@
-# simple-network-scanner
+# Simple Network Scanner
